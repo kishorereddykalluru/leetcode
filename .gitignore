@@ -1,0 +1,30 @@
+# VSCode
+.vscode/
+*.code-workspace
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Build outputs
+dist/
+build/
+*.o
+*.exe
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
